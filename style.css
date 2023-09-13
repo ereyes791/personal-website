@@ -1,0 +1,9 @@
+nav{
+   display: flex;
+   justify-content: space-between;
+}
+.tab{
+   display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
