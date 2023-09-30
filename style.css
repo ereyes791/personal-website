@@ -38,7 +38,6 @@ nav{
 }
 .nav-links{
    display: flex;
-   justify-content: flex-end !important;
 }
 .small-text{
    text-transform: uppercase;
